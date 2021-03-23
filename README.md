@@ -1,1 +1,1 @@
-# -AICUP
+# AICUP
